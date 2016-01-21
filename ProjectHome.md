@@ -1,0 +1,1 @@
+A simple webgame framework by PHP5.2+ .Also can use for CMS or other php program.
